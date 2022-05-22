@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @logicenoch
-- 👀 I’m interested in using java to create enterpise web applications(backend).
-- 🌱 I’m currently learning core java coupled with algorithm and data structures.
-- 💞️ I’m looking to collaborate on ...(coming soon).
+- 👋 Hi, I’m @logicenoch- 💞️ I’m looking to collaborate on ...(coming soon).
 - 📫 How to reach me using my email: successenochokeke@gmail.com.
 
 <!---
